@@ -30,8 +30,3 @@ This project analyzes a synthetic dataset of **2,514 mobile app reviews** collec
 - Multi-language and multi-country review analysis  
 - Interactive visualizations with Plotly  
 - Cleaned and structured dataset ready for further analysis or modeling  
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/MahmoudAhmed815/Data-analysis---Multilingual-Mobile-App-Reviews-2025.git
